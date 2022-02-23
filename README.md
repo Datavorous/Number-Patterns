@@ -1,3 +1,15 @@
+## Introduction
+Made with raylib.<br>
+```cpp
+Pseudocode:
+
+generate_the_numbers()
+loop:
+ // r,theta = list[i],list[i]
+ // convert (r,theta) to (x,y) 
+ draw_pixels_on loc(x,y)
+```
+
 ## Screenshots
 Prime:
 <br>
